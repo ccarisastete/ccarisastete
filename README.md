@@ -5,7 +5,7 @@ Full stack developer
 --------------------
 
 * 🌍  I'm based in Santiago of chile
-* ✉️  You can contact me at [cesarantonioastete98@gmail.co,](mailto:cesarantonioastete98@gmail.co,)
+* ✉️  You can contact me at [cesarantonioastete98@gmail.co,](mailto:cesarantonioastete98@gmail.com)
 * 🧠  I'm learning React
 
 ### Skills
