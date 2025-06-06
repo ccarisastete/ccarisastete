@@ -1,12 +1,12 @@
 Hi 👋 My name is Cesar Caris
 ============================
 
-Full stack developer
+Desarrollador de software - Data Analyst 
 --------------------
 
 * 🌍  I'm based in Santiago of chile
 * ✉️  You can contact me at [cesarantonioastete98@gmail.com](mailto:cesarantonioastete98@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React and tensorflow
 
 ### Skills
 
